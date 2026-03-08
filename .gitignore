@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Claude Code local session settings (machine-specific, not for sharing)
+.claude/settings.local.json
+
+# 日付ディレクトリ配下の生成レポートは除外（reports/samples/ は含む）
+reports/[0-9]*/
